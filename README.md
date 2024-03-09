@@ -113,8 +113,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmikpatel21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmikpatel21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats-dharmik-patels-projects.vercel.app/api?username=dharmikpatel21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-dharmik-patels-projects.vercel.app/api/top-langs?username=dharmikpatel21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <a href="https://github.com/dharmikpatel21">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikpatel21&" alt="dharmikpatel21" />
+  </a> -->
+</div>
+
+<div align="center">
+  <a href="https://github.com/dharmikpatel21"><img align="center" src="https://github-readme-stats-git-master-dharmik-patels-projects.vercel.app/api?username=dharmikpatel21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Dharmik's github stats"  height="150"  /></a> 
+  <a href="https://github.com/dharmikpatel21"><img align="center" src="https://github-readme-stats-git-master-dharmik-patels-projects.vercel.app/api/top-langs/?username=dharmikpatel21&layout=compact&theme=buefy&hide_border=false&langs_count=10"  height="150" /></a> 
    <a href="https://github.com/dharmikpatel21">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikpatel21&" alt="dharmikpatel21" />
   </a>
