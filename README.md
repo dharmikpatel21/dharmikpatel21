@@ -1,4 +1,3 @@
-
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Bonjour!, I am <a href="https://github.com/Defcon27">Dharmik Patel</a> </h1>
 </h1>
 
@@ -19,11 +18,10 @@
 
 - 📫 How to reach me **dharmikjpatel21@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/dharmikpatel21](https://github.com/dharmikpatel21)
-  
+
 <hr>
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
-
 
 <a href="mailto:dharmikjpatel21@gmail.com" target="blank"><img  align="center"  height="30" width="40"  src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="dharmikjpatel21@gmail.com"></a>
 <a href="https://www.linkedin.com/in/dharmik-patel-473113277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmik-patel-473113277" height="30" width="40" /></a>
@@ -31,14 +29,16 @@
 <a href="https://www.instagram.com/dharmik9597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmik9597" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/dharmikjpatel21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmikjpatel21" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/785740373447409705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="785740373447409705" height="30" width="40" /></a>
-<a href="https://t.me/dharmik9597" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/dharmik9597" height="30"  /></a> 
+<a href="https://t.me/dharmik9597" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/dharmik9597" height="30"  /></a>
 
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p></p>
 <div align="center">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  </a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
