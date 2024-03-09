@@ -37,52 +37,117 @@
 <p></p>
 <div align="center">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
   </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+ <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  </a>
   <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  </a>
+  
   <img width="12" />
+  <a href="https://html.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  </a>
+  
   <img width="12" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  </a>
+  
   <img width="12" />
+  <a href="https://css3.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  </a>
+  
   <img width="12" />
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<img width="12" />
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+<img width="12" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</a>
+
   <img width="12" />
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  </a>
+ 
   <img width="12" />
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  </a>
+  
   <img width="12" />
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+ <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  </a>
+ 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+ <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
+    <a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+ 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+   <a href="https://www.google.com/intl/en_in/chrome/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  </a>
+  
   <img width="12" />
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  </a>
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  </a>
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  </a>
+ 
 </div>
 
 ###
