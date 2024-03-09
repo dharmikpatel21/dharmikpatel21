@@ -2,7 +2,8 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/dharmikpatel21/dharmikpatel21/output/snake.svg" alt="Snake animation" />
+<!--   <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" width="300"/> -->
 </div>
 <h3 align="center">FrontEnd Developer | Crafting Exceptional User Interfaces with Precision and Passion.</h3>
 <hr>
@@ -118,9 +119,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/dharmikpatel21/dharmikpatel21/output/snake.svg" alt="Snake animation" />
-
-###
-
 </div>
