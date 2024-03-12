@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Bonjour!, I am <a href="https://github.com/Defcon27">Dharmik Patel</a> </h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px">Bonjour!, I am <a href="https://github.com/Defcon27">Dharmik Patel</a> </h1>
 </h1>
 
 <div id="header" align="center">
