@@ -119,7 +119,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikpatel21&" alt="dharmikpatel21" />
   </a> -->
 </div>
-
 <div align="center">
   <a href="https://github.com/dharmikpatel21">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmikpatel21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Dharmik's github stats" height="150" />
@@ -131,14 +130,5 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikpatel21&" alt="dharmikpatel21" height="150" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/dharmikpatel21"><img align="center" src="https://github-readme-stats-git-master-dharmik-patels-projects.vercel.app/api?username=dharmikpatel21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Dharmik's github stats"  height="150"  /></a> 
-  <a href="https://github.com/dharmikpatel21"><img align="center" src="https://github-readme-stats-git-master-dharmik-patels-projects.vercel.app/api/top-langs/?username=dharmikpatel21&layout=compact&theme=buefy&hide_border=false&langs_count=10"  height="150" /></a> 
-   <a href="https://github.com/dharmikpatel21">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikpatel21&" alt="dharmikpatel21" />
-  </a>
-</div>
-
 ###
 </div>
